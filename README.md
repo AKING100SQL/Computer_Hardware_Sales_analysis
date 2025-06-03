@@ -38,7 +38,6 @@ Primary keys highlight Customer ID's and Transaction ID's.
 - **MySQL Workbench** — SQL querying and schema management
 - **Markdown** — Project documentation
 - **Tableau** - Presented general finidings visually, to aid to the understanding of non-technical users
-- *(Optional: Excel / Power BI / Python — for visualizations or additional analysis)* 
 
 ---
 
