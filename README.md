@@ -37,7 +37,7 @@ Primary keys highlight Customer ID's and Transaction ID's.
 - **Microsoft Excel** - Cleaned, transformed and validated raw datasets, in order use within SQL and Tableau
 - **MySQL Workbench** — SQL querying and schema management
 - **Markdown** — Project documentation
-- **Tableau** - Presented general finidings visually, to aid to the understanding of non-technical users
+- **Tableau** - Presented general findings visually, to aid to the understanding of non-technical users
 
 ---
 
